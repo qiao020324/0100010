@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">自动记账</string>
+    <string name="month_expense">本月支出</string>
+    <string name="no_tx">还没有自动记录的账单</string>
+    <string name="enable_listener_hint">开启「通知使用权」后，付款将自动记账</string>
+    <string name="open_settings">去开启通知监听</string>
+    <string name="settings_title">设置</string>
+    <string name="listener_status_off">未开启通知监听</string>
+    <string name="listener_status_on">通知监听已开启</string>
+    <string name="clear_data">清空全部账单</string>
+    <string name="clear_data_confirm">确定清空所有自动记录的账单？</string>
+    <string name="about">付款后微信/支付宝会弹出支付成功通知，本应用自动读取并解析入账。所有数据仅保存在本机。</string>
+</resources>
